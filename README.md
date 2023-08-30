@@ -1,3 +1,5 @@
+[https://docs.gradle.org/current/samples/sample_building_android_apps.html#header]
+
 :samples-dir: /home/tcagent1/agent/work/64493a816be20d5a/promote-projects/gradle/build/git-checkout/subprojects/docs/build/working/samples/install/building-android-apps
 :gradle-version: 8.3-rc-4
 
