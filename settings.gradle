@@ -2,8 +2,17 @@ pluginManagement {
     repositories {
         gradlePluginPortal()
         google()
+        mavenCentral()
     }
 }
 
-rootProject.name = 'APP1'
+dependencyResolutionManagement{
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'My App'
 include ':app'
